@@ -1,0 +1,130 @@
+BG60_model
+['kr' 'na' 'через1час_тест' 'ИМТ' 'глю_нт_V1' 'инсулин_V1' 'лептин_V1'
+ 'Хол_V1' 'ТГ_V1' 'ЛПВП_V1' 'carbo' 'CGM_mean' 'CGM_below' 'CGM_above'
+ 'BGb60_to_mean' 'BGTrend240' 'BGTrend120' 'BGTrend60'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Clostridium; s__clostridioforme'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__.23'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.13'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.25'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.48'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__formicigenerans.3'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.51'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae.129'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae.173'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.51'
+ 'k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__aerofaciens.1'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.53'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__obeum.10'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Gemmiger; s__formicilis.17'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.104'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.178'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__catus.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.85'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__.45'
+ 'k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium.7']
+R:0.5185938394948633, 1.0805866441416772e-62
+R2: 0.25357850566757695, 0.08304614209678222
+MAE: -0.6429266608866555, 0.09102882476921567
+MSE: -0.7264577815376754, 0.24068985927710246
+BG120_model
+['kcal' 'gl_b12h' 'fat_b12h' 'ИМТ' 'глю_нт_V1' 'инсулин_V1' 'лептин_V1'
+ 'БОМК_визит1' 'Хол_V1' 'ТГ_V1' 'CGM_mean' 'CGM_below' 'CGM_above'
+ 'BGb60_to_mean' 'BGTrend240' 'BGTrend120' 'BGTrend60'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Clostridium; s__clostridioforme'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.5'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__.23'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.13'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.48'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__formicigenerans.3'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.51'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae.173'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.51'
+ 'k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__aerofaciens.1'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.53'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__obeum.10'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales.131'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Gemmiger; s__formicilis.17'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.104'
+ 'k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis.4'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.178'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__catus.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.85'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__.45'
+ 'k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium.7']
+R:0.5102157130684071, 2.04673644667851e-60
+R2: 0.09874191060608765, 0.1161744980282102
+MAE: -0.6312685178231762, 0.06582553454631371
+MSE: -0.7168477388297881, 0.1643418744529348
+BGMax_model
+['BG0' 'через1час_тест' 'ИМТ' 'глю_нт_V1' 'инсулин_V1' 'лептин_V1'
+ 'БОМК_визит1' 'Хол_V1' 'ТГ_V1' 'ЛПВП_V1' 'CGM_range' 'CGM_mean'
+ 'CGM_below' 'CGM_above' 'BGb60_to_mean' 'BGTrend240' 'BGTrend120' 'BGb10'
+ 'BGb5'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Clostridium; s__clostridioforme'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.5'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.13'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.48'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__formicigenerans.3'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.51'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae.173'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.51'
+ 'k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__aerofaciens.1'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.53'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__obeum.10'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales.131'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Gemmiger; s__formicilis.17'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.104'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.178'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__catus.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.85'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__.45'
+ 'k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium.7']
+R:0.598056797923756, 8.102187792064055e-88
+R2: 0.3369582556735269, 0.08398432745237112
+MAE: -0.618701501322475, 0.10403699019377255
+MSE: -0.672791553821037, 0.23725362606480555
+AUC120_model
+['BG0' 'ИМТ' 'глю_нт_V1' 'инсулин_V1' 'лептин_V1' 'Хол_V1' 'ТГ_V1'
+ 'ЛПВП_V1' 'CGM_mean' 'CGM_below' 'CGM_above' 'BGb60_to_mean' 'BGTrend240'
+ 'BGb15' 'BGb10' 'BGb5'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Clostridium; s__clostridioforme'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.5'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__.3'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.13'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.25'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.48'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__formicigenerans.3'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.51'
+ 'k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__.39'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae.173'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.51'
+ 'k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__aerofaciens.1'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.53'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__obeum.10'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Gemmiger; s__formicilis.17'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__.104'
+ 'k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis.4'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__.178'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__catus.7'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.85'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__.45'
+ 'k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium.7']
+R:0.6975352207690122, 2.902057589999966e-131
+R2: 0.4417226836460587, 0.07008123815450486
+MAE: -0.4499818966979422, 0.046764214609825765
+MSE: -0.34473247298521104, 0.07609982868214386
+iAUC120_model
+['gl' 'kcal' 'water' 'kr' 'zola' 'na' 'k' 'ca' 'mg' 'p' 'fe' 're' 'ne'
+ 'gl_b12h' 'carbo_b6h' 'carbo_b12h' 'prot_b6h' 'prot_b12h' 'fat_b12h'
+ 'pv_b6h' 'kcal_b12h' 'prec_meal_prot' 'prec_meal_shift' 'BG0'
+ 'инсулин_V1' 'carbo' 'CGM_mean' 'BGb60_to_mean' 'BGRiseb240' 'BGTrend240'
+ 'BGTrend120' 'BGTrend60' 'BGb30' 'BGb25' 'BGb20' 'BGb15' 'BGb10' 'BGb5'
+ 'k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii.53']
+R:0.6709855026778294, 5.285099855466361e-118
+R2: 0.44366163538146025, 0.03455277898539009
+MAE: -0.395211008868833, 0.015335431730481906
+MSE: -0.2857427923259837, 0.03520016604172008
